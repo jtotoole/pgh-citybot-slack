@@ -22,6 +22,14 @@ You'll see some start up output and a prompt:
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
     hubot>
 
+## Configuration
+
+This adapter uses the following environment variables:
+
+ - `HUBOT_SLACK_TOKEN` - this is the API token for the Slack user under which you'd like to run jargonbot.
+
+To add or remove hubot from specific channels or private groups, you can use the /kick and /invite slash commands that are built into Slack.
+
 ## Deployment
 
 This is a modified set of instructions based on the [instructions on the Hubot wiki](https://github.com/github/hubot/blob/master/docs/deploying/heroku.md).
@@ -42,19 +50,6 @@ This is a modified set of instructions based on the [instructions on the Hubot w
         % heroku ps:scale web=1
 
 - Profit!
-
-## Configuration
-
-This adapter uses the following environment variables:
-
- - `HUBOT_SLACK_TOKEN` - this is the API token for the Slack user under which you'd like to run jargonbot.
-
-To add or remove jargonbot from specific channels or private groups, you can use the /kick and /invite slash commands that are built into Slack.
-
-## Deployment
-
-    % heroku create --stack cedar
-    % git push heroku master
 
 If you run into any problems, checkout Heroku's [docs][heroku-node-docs].
 
