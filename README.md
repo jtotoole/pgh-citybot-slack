@@ -63,10 +63,3 @@ Heroku][deploy-heroku] wiki page.
 
 [heroku-node-docs]: http://devcenter.heroku.com/articles/node-js
 [deploy-heroku]: https://github.com/github/hubot/blob/master/docs/deploying/heroku.md
-
-## Adapters
-
-Hubot is configured by default for Slack. Adapters are also available for a number of other
-chat services -- check [Hubot Adapters][hubot-adapters] to see all available.
-
-[hubot-adapters]: https://github.com/github/hubot/blob/master/docs/adapters.md
