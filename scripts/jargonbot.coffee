@@ -65,7 +65,7 @@ nouns = ['action items', 'alignments', 'applications', 'architectures', 'bandwid
 
 worst_offenders = ['synergy', 'synergize', 'synergies', 'synergistically', 'circle back', 'sync up', 'best of breed',
                    'mindshare', 'streamline', 'stakeholder', 'stakeholders', 'win-win', 'holisticly', 'holistic', 'best-of-breed',
-                   'strategic', 'heuristic', 'heuristics', 'best practice', 'best practices', 'turnkey', 'cloud', 'big data', 'close the loop']
+                   'strategic', 'heuristic', 'heuristics', 'best practice', 'best practices', 'turnkey', 'cloud', 'close the loop']
 
 shuffle = (a) ->
   for i in [a.length-1..1]
