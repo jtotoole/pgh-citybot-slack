@@ -68,7 +68,7 @@ worst_offenders = ['synergy', 'synergize', 'synergies', 'synergistically', 'circ
                    'strategic', 'heuristic', 'heuristics', 'best practice', 'best practices', 'turnkey', 'cloud', 
                    'disrupt', 'disrupted', 'disrupting', 'disrupter', 'dogfood', 'dogfooding', 'sustainable', 'sustainability',
                    'resilience', 'resiliency', 'ideate', 'ideating', 'wordsmith', 'touch base', 'pick your brain', 
-                   'buy-in', 'buy in', 'close the loop']
+                   'buy-in', 'buy in', 'close the loop', 'actualize']
 
 shuffle = (a) ->
   for i in [a.length-1..1]
