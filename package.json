@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "jtotoole@gmail.com",
-  "description": "A simple helpful robot for your Company",
+  "description": "A simple helpful robot for your company",
   "dependencies": {
     "hubot": "^3.2.0",
     "hubot-diagnostics": "^1.0.0",
