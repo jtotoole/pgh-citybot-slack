@@ -8,8 +8,8 @@
 #   None
 #
 # Commands:
-#   hubot doge me - Wow. Such Doge
-#   hubot doge bomb N - Many Doges. Such exploshun
+#   burghbot doge me - Wow. Such Doge
+#   burghbot doge bomb N - Many Doges. Such exploshun
 #
 # Author:
 #   rowanmanning
