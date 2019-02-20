@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   hubot jargon me
+#   burghbot jargon me - get a nugget of streamlined, synergistic communication
 
 adverbs = ['appropriately', 'assertively', 'authoritatively', 'collaboratively', 'compellingly', 'competently', 'completely',
 'continually', 'conveniently', 'credibly', 'distinctively', 'dramatically', 'dynamically', 'efficiently',
